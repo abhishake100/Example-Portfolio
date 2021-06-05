@@ -4,4 +4,4 @@ This is a an Example Portfolio.
 # H1
 My Portfolio
 
-**Iam Awesome aasd or AMi**
+**Iam Awesome or AMi**
